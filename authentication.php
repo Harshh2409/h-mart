@@ -17,7 +17,7 @@
           
         if($count == 1){  
             echo "<h1><center> Login successful </center></h1>";  
-            echo "<script> window.location.assign('home.php'); </script>";
+            echo "<script> window.location.assign('home.html'); </script>";
         }  
         else{  
             echo "<h1> Login failed. Invalid username or password.</h1>";  
